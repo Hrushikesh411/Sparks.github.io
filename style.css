@@ -87,7 +87,7 @@ ul li.active a{
 }
 
 .btn:hover{
-    background-color: rgb(131, 177, 79);
+    background-color: rgb(131, 177, 78);
     color: black;
     transition: 0.6s ease;
 }
